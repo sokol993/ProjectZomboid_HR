@@ -1,0 +1,38 @@
+MakeUp_EN = {
+    MakeUpCategory_Eyes = "Oči",
+    MakeUpCategory_EyesShadow = "Sjenilo",
+    MakeUpCategory_FullFace = "Preko cijele face",
+    MakeUpCategory_Lips = "Usne",
+
+    MakeUpType_EyesCrow = "Vrana",
+    MakeUpType_EyesRedStripes1 = "Crvene Pruge 1",
+    MakeUpType_EyesRedStripes2 = "Crvene Pruge 2",
+    MakeUpType_EyesCamo1 = "Camo 1",
+    MakeUpType_EyesCamo2 = "Camo 2",
+    MakeUpType_EyesCamoStripes = "Pruge",
+    MakeUpType_EyesFootball = "Nogomet",
+
+    MakeUpType_EyeShadowWhite = "Bijelo Sjenilo",
+    MakeUpType_EyeShadowLightBlue = "Svijetlo Plavo Sjenilo",
+    MakeUpType_EyeShadowBlue = "Plavo Sjenilo",
+    MakeUpType_EyeShadowRed = "Crveno Sjenilo",
+    MakeUpType_EyeShadowPink = "Rozo Sjenilo",
+    MakeUpType_EyeShadowGreen = "Zeleno Sjenilo",
+    MakeUpType_EyeShadowYellow = "Žuto Sjenilo",
+
+    MakeUpType_FullFaceCamo1 = "Puni Camo 1",
+    MakeUpType_FullFaceCamo2 = "Puni Camo 2",
+    MakeUpType_FullFaceWarrior = "Ratnik",
+    MakeUpType_FullFaceClown1 = "Klaun 1",
+    MakeUpType_FullFaceClown2 = "Klaun 2",
+    MakeUpType_FullFaceSkull1 = "Lubanja 1",
+    MakeUpType_FullFaceSkull2 = "Lubanja 2",
+
+    MakeUpType_LipsRed = "Crveni Ruž",
+    MakeUpType_LipsLightBlue = "Svijetlo Plavi Ruž",
+    MakeUpType_LipsBlue = "Plavi Ruž",
+    MakeUpType_LipsBlack = "Crni Ruž",
+    MakeUpType_LipsGreen = "Zeleni Ruž",
+    MakeUpType_LipsPink = "Rozi Ruž",
+}
+
