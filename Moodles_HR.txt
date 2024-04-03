@@ -1,0 +1,226 @@
+Moodles_EN = {
+	-- Moodle type :
+	-- Endurance
+	Moodles_endurance_lvl1 = "Srednji Umor",
+	Moodles_endurance_lvl2 = "Veliki Umor",
+	Moodles_endurance_lvl3 = "Pretjerani Umor",
+	Moodles_endurance_lvl4 = "Umoran",
+	-- Heavy Load
+	Moodles_heavyload_lvl1 = "Pošteno Težak Teret",
+	Moodles_heavyload_lvl2 = "Težak Teret",
+	Moodles_heavyload_lvl3 = "Veoma težak teret",
+	Moodles_heavyload_lvl4 = "Ekstremno težak teret",
+	-- Angry
+	Moodles_angry_lvl1 = "Iritiran",
+	Moodles_angry_lvl2 = "Ozlojeđen",
+	Moodles_angry_lvl3 = "Ljut",
+	Moodles_angry_lvl4 = "Žestok",
+	-- Stress
+	Moodles_stress_lvl1 = "Anksiozan",
+	Moodles_stress_lvl2 = "Uzrujan",
+	Moodles_stress_lvl3 = "Stresiran",
+	Moodles_stress_lvl4 = "Živčana olupina",
+	-- Thirst
+	Moodles_thirst_lvl1 = "Malo žedan",
+	Moodles_thirst_lvl2 = "Žedan",
+	Moodles_thirst_lvl3 = "Dehidriran",
+	Moodles_thirst_lvl4 = "Umire od žeđi",
+	-- Tired
+	Moodles_tired_lvl1 = "Pospan",
+	Moodles_tired_lvl2 = "Umoran",
+	Moodles_tired_lvl3 = "Vrlo umoran",
+	Moodles_tired_lvl4 = "Nevjerojatno umoran",
+	-- Hungry
+	Moodles_hungry_lvl1 = "Pomalo gladan",
+	Moodles_hungry_lvl2 = "Gladan",
+	Moodles_hungry_lvl3 = "Vrlo gladan",
+	Moodles_hungry_lvl4 = "Izgladnjeo",
+	-- Panic
+	Moodles_panic_lvl1 = "Lagana panika",
+	Moodles_panic_lvl2 = "Panika",
+	Moodles_panic_lvl3 = "Jaka panika",
+	Moodles_panic_lvl4 = "Ekstremna panika",
+	-- Sick
+	Moodles_sick_lvl1 = "Mučnina",
+	Moodles_sick_lvl2 = "Manta mu se",
+	Moodles_sick_lvl3 = "Bolestan",
+	Moodles_sick_lvl4 = "Temperatura",
+	-- Bored
+	Moodles_bored_lvl1 = "Postaje dosadno",
+	Moodles_bored_lvl2 = "Dosadno",
+	Moodles_bored_lvl3 = "Vrlo dosadno",
+	Moodles_bored_lvl4 = "Ekstremno dosadno",
+	-- Unhappy
+	Moodles_unhappy_lvl1 = "Osjećam se malo tužno",
+	Moodles_unhappy_lvl2 = "Plače mi se",
+	Moodles_unhappy_lvl3 = "U depresiji",
+	Moodles_unhappy_lvl4 = "U teškoj depresiji",
+	-- Bleeding
+	Moodles_bleeding_lvl1 = "Blago krvarenje",
+	Moodles_bleeding_lvl2 = "Krvarenje",
+	Moodles_bleeding_lvl3 = "Teže krvarenje",
+	Moodles_bleeding_lvl4 = "Ogroman gubitak krvi",
+	-- Wet
+	Moodles_wet_lvl1 = "Vlažan",
+	Moodles_wet_lvl2 = "Mokar",
+	Moodles_wet_lvl3 = "Natopljen",
+	Moodles_wet_lvl4 = "Jako natopljen",
+	-- Has a cold
+	Moodles_hascold_lvl1 = "Curi nos",
+	Moodles_hascold_lvl2 = "Šmrče",
+	Moodles_hascold_lvl3 = "Prehlađen si",
+	Moodles_hascold_lvl4 = "Imaš gadnu prehladu",
+	-- Injured
+	Moodles_injured_lvl1 = "Neudobno",
+	Moodles_injured_lvl2 = "Ozlijeđen",
+	Moodles_injured_lvl3 = "Velike ozlijede",
+	Moodles_injured_lvl4 = "Kritične ozlijede",
+	-- Pain
+	Moodles_pain_lvl1 = "Blaga bol",
+	Moodles_pain_lvl2 = "Bol",
+	Moodles_pain_lvl3 = "Velika bol",
+	Moodles_pain_lvl4 = "Agonija",
+	-- Drunk
+	Moodles_drunk_lvl1 = "Blago pripit",
+	Moodles_drunk_lvl2 = "Opijen",
+	Moodles_drunk_lvl3 = "Pijan",
+	Moodles_drunk_lvl4 = "Kompletno oblokan",
+	-- Dead
+	Moodles_dead_lvl1 = "Preminuo",
+	-- Zombified
+	Moodles_zombie_lvl1 = "Zombificiran",
+	-- Food eaten
+	Moodles_foodeaten_lvl1 = "Sit",
+	Moodles_foodeaten_lvl2 = "Dobro nahranjen",
+	Moodles_foodeaten_lvl3 = "Odlično nahranjen",
+	Moodles_foodeaten_lvl4 = "Pun do vrha",
+	-- Hyperthermia
+	Moodles_hyperthermia_lvl1 = "Neudobno vruče",
+	Moodles_hyperthermia_lvl2 = "Pregrijan",
+	Moodles_hyperthermia_lvl3 = "Sunčanica",
+	Moodles_hyperthermia_lvl4 = "Hipertermičan",
+	-- Hypothermia
+	Moodles_hypothermia_lvl1 = "Prohladno",
+	Moodles_hypothermia_lvl2 = "Hladno",
+	Moodles_hypothermia_lvl3 = "Smrzavanje",
+	Moodles_hypothermia_lvl4 = "Hipotermija",
+    -- Windchill
+    Moodles_windchill_lvl1 = "Blagi hladni vjetar",
+    Moodles_windchill_lvl2 = "Neudobni hladni vjetar",
+    Moodles_windchill_lvl3 = "Smrzavajući vjetar",
+    Moodles_windchill_lvl4 = "Užasno hladan vjetar",
+
+	-- Description of moodle
+	-- Endurance
+	Moodles_endurance_desc_lvl1 = "Odmori.",
+	Moodles_endurance_desc_lvl2 = "Jedva može trčati.",
+	Moodles_endurance_desc_lvl3 = "Jedva može šetati.",
+	Moodles_endurance_desc_lvl4 = "Jedva se može kretati.",
+	-- Angry
+	Moodles_angry_desc_lvl1 = "Malo uzrujan.",
+	Moodles_angry_desc_lvl2 = "Ozbiljno loša volja.",
+	Moodles_angry_desc_lvl3 = "Klupko bijesa.",
+	Moodles_angry_desc_lvl4 = "Traži svađu.",
+	-- Stress
+	Moodles_stress_desc_lvl1 = "Na rubu.",
+	Moodles_stress_desc_lvl2 = "Nervozan i razdražljiv",
+	Moodles_stress_desc_lvl3 = "Znojni dlanovi. Grize ga strah.",
+	Moodles_stress_desc_lvl4 = "Prestrašen.",
+	-- Thirsty
+	Moodles_thirst_desc_lvl1 = "Suha usta.",
+	Moodles_thirst_desc_lvl2 = "Dehidriran.",
+	Moodles_thirst_desc_lvl3 = "Osjeća se slabo i vrtoglavicu.",
+	Moodles_thirst_desc_lvl4 = "Očajan za vodu.",
+	-- Tired
+	Moodles_tired_desc_lvl1 = "Mogao bi prileći.",
+	Moodles_tired_desc_lvl2 = "Svijest smanjena.",
+	Moodles_tired_desc_lvl3 = "Svijest jako smanjena.",
+	Moodles_tired_desc_lvl4 = "Jako umoran. Tako očajno, nehumano umoran.",
+	-- Hungry
+	Moodles_hungry_desc_lvl1 = "Mogao bi nešto pojesti.",
+	Moodles_hungry_desc_lvl2 = "Mogao bi pojesti konja sad.",
+	Moodles_hungry_desc_lvl3 = "Smanjena snaga i zacijelivanje.",
+	Moodles_hungry_desc_lvl4 = "Zdravlje sad opada...",
+	-- Panic
+	Moodles_panic_desc_lvl1 = "Potrudi se ostat miran.",
+	Moodles_panic_desc_lvl2 = "Preciznost smanjena.",
+	Moodles_panic_desc_lvl3 = "Preciznost jako smanjena.",
+	Moodles_panic_desc_lvl4 = "Preciznost i vid jako smanjeni.",
+	-- Sickness
+	Moodles_sick_desc_lvl1 = "Uzmi stvari polako.",
+	Moodles_sick_desc_lvl2 = "Snaga i zacijelivanje smanjeno.",
+	Moodles_sick_desc_lvl3 = "Snaga i zacijelivanje znatno smanjeno.",
+	Moodles_sick_desc_lvl4 = "Povećava se opasnost od smrti.",
+	-- Bored
+	Moodles_bored_desc_lvl1 = "Zabavi se ili traži neku zanimaciju.",
+	Moodles_bored_desc_lvl2 = "U opasnosti da ne postane nesretan.",
+	Moodles_bored_desc_lvl3 = "Visoka šansa da postane nesretan.",
+	Moodles_bored_desc_lvl4 = "Vrlo velika šansa da postane nesretan.",
+	-- Unhappy
+	Moodles_unhappy_desc_lvl1 = "Pronađi način da podigneš raspoloženje.",
+	Moodles_unhappy_desc_lvl2 = "Traži nekakvo uzbuđenje ili ljudski kontakt.",
+	Moodles_unhappy_desc_lvl3 = "Opustošen od tugovanja i očajavanja.",
+	Moodles_unhappy_desc_lvl4 = "Pronađi način da zaboraviš na stvarnost.",
+	-- Bleeding
+	Moodles_bleed_desc_lvl1 = "Potreban zavoj.",
+	Moodles_bleed_desc_lvl2 = "Snaga i brzina smanjena.",
+	Moodles_bleed_desc_lvl3 = "Snaga i brzina znatno smanjeni.",
+	Moodles_bleed_desc_lvl4 = "Smrt neizbježna.",
+	-- Wet
+	Moodles_wet_desc_lvl1 = "Pomalo vlažan. Kiša ili znoj?",
+	Moodles_wet_desc_lvl2 = "Znojniji, ili još više mokar od kiše?",
+    Moodles_wet_desc_lvl3 = "Šansa da se prehladiš.",
+    Moodles_wet_desc_lvl4 = "Velika šansa da se prehladiš.",
+	-- Has a cold
+	Moodles_hasacold_desc_lvl1 = "Povremeno kihanje.",
+	Moodles_hasacold_desc_lvl2 = "Sklonost kihanju.",
+	Moodles_hasacold_desc_lvl3 = "Kihanje i kašljanje. Brzina i zacijelivanje smanjeno.",
+	Moodles_hasacold_desc_lvl4 = "Brzina i zacijelivanje trenutno znatno smanjeni.",
+	-- Injured
+	Moodles_injured_desc_lvl1 = "Nešto nije kako treba...",
+	Moodles_injured_desc_lvl2 = "Snaga i brzina smanjeni.",
+	Moodles_injured_desc_lvl3 = "Snaga i brzina znatno smanjeni.",
+	Moodles_injured_desc_lvl4 = "Ne idemo nježno u tu dobru noć...",
+	-- Pain
+	Moodles_pain_desc_lvl1 = "Osjećam blagu bol.",
+	Moodles_pain_desc_lvl2 = "Brzina i preciznost pomalo smanjeni.",
+	Moodles_pain_desc_lvl3 = "Brzina i preciznost smanjeni.",
+	Moodles_pain_desc_lvl4 = "Brzina i preciznost znatno smanjeni.",
+	-- Heavy load
+	Moodles_heavyload_desc_lvl1 = "Nosim malo previše.",
+	Moodles_heavyload_desc_lvl2 = "Brzina kretanja smanjena.",
+	Moodles_heavyload_desc_lvl3 = "BRzina kretanja vrlo puno smanjena.",
+	Moodles_heavyload_desc_lvl4 = "Ne mogu više nositi! Kretanje ugroženo.",
+	-- Drunk
+	Moodles_drunk_desc_lvl1 = "Popio alkohola.",
+	Moodles_drunk_desc_lvl2 = "Kordinacija blago oštećena.",
+	Moodles_drunk_desc_lvl3 = "Kordinacija oštećena.",
+	Moodles_drunk_desc_lvl4 = "Jjjjaaa i ti prot'v svita. Vol'n te. VOLIM TE!'",
+	-- Dead
+	Moodles_dead_desc_lvl1 = "Visok rizik da postane hrana za štakore.",
+	-- Zombified
+	Moodles_zombified_desc_lvl1 = "Iznenadna želja da jede ljude.",
+	-- Food eaten
+	Moodles_foodeaten_desc_lvl1 = "Grizeća bol više ne postoji.",
+	Moodles_foodeaten_desc_lvl2 = "Želudac pun. Slatkoća se kreće kroz tvoj sistem.",
+	Moodles_foodeaten_desc_lvl3 = "Želudac zadovoljan. Zdravlje i snaga potpomognuti.",
+	Moodles_foodeaten_desc_lvl4 = "Ne bi mogao više ni jedan jedini zalogaj.",
+	-- Hyperthermia
+	Moodles_hyperthermia_desc_lvl1 = "Razmisli da skineš nešto odjeće. Žeđ povečana.",
+	Moodles_hyperthermia_desc_lvl2 = "Žedan. Znojan. Preeksponiran.",
+	Moodles_hyperthermia_desc_lvl3 = "Vrtoglavica, ne može se koncentrirati i očajan za tekučinom.",
+	Moodles_hyperthermia_desc_lvl4 = "Deliričan zbog sunčanice i izlaganja. Vrlo ugrožen.",
+	-- Hypothermia
+	Moodles_hypothermia_desc_lvl1 = "Osjeća se malo prohladno ovdje...",
+	Moodles_hypothermia_desc_lvl2 = "Moraš pronaći načine da se ugriješ.",
+	Moodles_hypothermia_desc_lvl3 = "Majke ti. Stvarno je JAKO hladno.",
+	Moodles_hypothermia_desc_lvl4 = "Tijelo i um opsjednut hladnoćom.",
+    -- Windchill
+    Moodles_windchill_desc_lvl1 = "Osjeća se 5 do 10 stupnjeva hladnije nego što je zapravo.",
+    Moodles_windchill_desc_lvl2 = "Osjeća se 10 do 15 stupnjeva hladnije nego što je zapravo.",
+    Moodles_windchill_desc_lvl3 = "Osjeća se 15 do 20 stupnjeva hladnije nego što je zapravo.",
+    Moodles_windchill_desc_lvl4 = "Osjeća se više nego 20 stupnjeva hladnije nego što je zapravo.",
+    -- CantSprint
+    Moodles_CantSprint = "Ograničeni pokreti",
+    Moodles_CantSprint_desc = "Teška odjeća, pretrpane torbe ili veliki predmeti te usporavaju!"
+}
