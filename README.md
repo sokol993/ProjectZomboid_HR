@@ -1,2 +1,1 @@
-# Project Zomboid translation
-## to Croatian
+# Project Zomboid translation to Croatian
