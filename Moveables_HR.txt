@@ -814,7 +814,7 @@ Moveables_EN = {
     Lamp_on_Pillar = "Svjetiljka na stupu",
     Metal_Crate = "Metalni sanduk",
     Stone_Pile = "Gomila kamenja",
-    Wooden_Picket = "Drveni kolac",
+    Wooden_Picket = "Drveni stupić",
     Wooden_Stairs = "Drvene stepenice",
 
 }

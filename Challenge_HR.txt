@@ -3,7 +3,7 @@ Challenge_EN = {
 	Challenge_YouHaveOneDay_desc = "Vratio si se u Županiju Knox. Natrag si na karti gdje je Project Zomboid infekcija prvo počela. <LINE> <LINE> Imaš jedan dan relativne sigurnosti. Zombiji će doći u velikim brojevima, pronaći če te. Gdje si prije odradio svoju posljednju poziciju? Gdje si u starim danima, zadnju poziciju branio? Bolje ti je nađi je brzo. <LINE> <LINE> [Naše zahvale BobHeckling-u što je rekreirao staru 0.1.5 kartu uz pomoć sadašnjeg PZ alata.]",
 
     Challenge_WinterIsComing_name = "Zima dolazi",
-	Challenge_WinterIsComing_desc = "It's mid-July, but suddenly there's a chill on the breeze. In a mere three days' time a winter will set in like no other before it. <LINE> <LINE> You awake in an isolated location. You have meagre supplies, and the undead hordes might be slowed by the intense cold - but they are no less deadly. <LINE> <LINE> Wrap up warm, survivor...",
+	Challenge_WinterIsComing_desc = "Sredina je 7. mjeseca ali iznenada, vjetar je hladniji. U samo tri dana, doći će zima kao nikoja prije nje. <LINE> <LINE> Probudio si se u izoliranoj lokaciji. Imaš nešto sitno zaliha i horda mrtvih će možda biti usporena zbog intenzivne hladnoće - ali nisu ništa manje smrtonosni. <LINE> <LINE> Zamotaj se dobro, preživjeli...",
 
 	Challenge_OpeningHours_name = "Sati otvorenja",
     Challenge_OpeningHours_desc = "Centar za trgovinu je okružen. Jednom davno, ovo mjesto im je bilo bitno u životu. Instinkt ih je doveo pred njegova vrata. Sjećanje što su prije radili <LINE> <LINE> Sam si, ne zadugo. U 9 ujutro, centar će biti spreman za otvorenje: vrata će se otvoriti, horde će ući. <LINE> <LINE> Budi spreman za njih.",
@@ -11,11 +11,11 @@ Challenge_EN = {
 	Challenge_AReallyCDDAy_name = "Jedan stvarno CD DA",
 	Challenge_AReallyCDDAy_desc = "Izađeš iz tuša i gadno padneš. Naslijepo si pijan i imaš gadnu prehladu. <LINE> <LINE> Za šlag na kraju, kuća gori! Danas definitivno nije tvoj dan. <LINE> <LINE> [Izazov inspiriran od "A Really Bad Day" od sjajnog, divnog i MORATE ODIGRAT Cataclysm: Dark Days Ahead] ",
 
-	Challenge_Challenge1_name = "Kuća u Šumi - Posljednji Dah",
-	Challenge_Challenge1_desc = "Čuješ ih kako prilazu. Horde mrtvoglavih, pristupaju tvojoj izoliranoj kućici sa svakog kuta. Smrt je neizbježna ali pumparica je blizu uz ruku. <LINE> <LINE> Posljednji dah daje beskonačne valove zombija u sve više povečavajućim brojevima. Preživite koliko dugo možete protiv nevjerojatnih šansi.",
+	Challenge_Challenge1_name = "Kuća u Šumi - Posljednje otporište",
+	Challenge_Challenge1_desc = "Čuješ ih kako prilazu. Horde mrtvoglavih, pristupaju tvojoj izoliranoj kućici sa svakog kuta. Smrt je neizbježna ali pumparica je blizu uz ruku. <LINE> <LINE> Posljednje otporište daje beskonačne valove zombija u sve više povečavajućim brojevima. Preživite koliko dugo možete protiv nevjerojatnih šansi.",
 
-	Challenge_Challenge2_name = "Kuća u Šumi - Posljednji Dah Akumulator",
-	Challenge_Challenge2_desc = "Još jedan dan, još jedna kućica koja će se okrvariti. Horde su pred tobom, tvoja smrt će biti bolna koliko i gadljiva. Tako da, odi u smrt boreći se... <LINE> <LINE> Posljednji Dah – Akumulator daje beskonačne valove zombija u sve povečavajućim brojevima. Koristi novac koji zaradiš tako da ubijaš zombije, da kupiš opremu, podigneš level i popraviš svoje krvavo oružje.",
+	Challenge_Challenge2_name = "Kuća u Šumi - Nakupljanje posljednjeg otporišta",
+	Challenge_Challenge2_desc = "Još jedan dan, još jedna kućica koja će se okrvariti. Horde su pred tobom, tvoja smrt će biti bolna koliko i gadljiva. Tako da, odi u smrt boreći se... <LINE> <LINE> Posljednje otporište – Akumulator daje beskonačne valove zombija u sve povečavajućim brojevima. Koristi novac koji zaradiš tako da ubijaš zombije, da kupiš opremu, podigneš level i popraviš svoje krvavo oružje.",
 
     Challenge_AStormIsComing_name = "Oluja dolazi",
 	Challenge_AStormIsComing_desc = "Oblaci se skupljaju nad Kentucky-em. Udari gromova se čuju u daljini. <LINE> <LINE> Dok se nebo mrači, mrtvi koji se gegaju po tlu, postaju nemirni. <LINE> <LINE> Ovo je oluja koja će rasti i padati u jačini, ali neće nikad stati.",
@@ -39,7 +39,7 @@ Challenge_EN = {
 	Challenge_Challenge2_MoneyGained = "Novac dobijen : %1",
 	Challenge_Challenge2_XPGained = "Iskustvo dobijeno : %1",
 	-- Window
-	Challenge_Challenge2_WindowTitle = "Posljednji Dah",
+	Challenge_Challenge2_WindowTitle = "Posljednje otporište",
 	Challenge_Challenge2_TabPlayer = "Igrač",
 	Challenge_Challenge2_Weapons = "Oružja",
 	Challenge_Challenge2_TabItems = "Predmeti",
