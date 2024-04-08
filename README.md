@@ -5,7 +5,6 @@ Add me on discord if you want to chat about this directly: ratsmon
 
 ## Files to be translated
 
-* UI (almost done, about 250 lines left to translate)
 * Survival Guide
 * Recorded Media (massive)
 * News (massive)
