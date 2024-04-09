@@ -230,7 +230,7 @@ Moveables_EN = {
     Exceptional_Table = "Kvalitetno izrađen stol",
     Exceptionally_crafted_Chair = "Kvalitetno izrađena stolica",
     Exit_Sign = "Znak za izlaz",
-    Extractor_Hood = "Aspirator",
+    Extractor_Hood = "Napa",
     Eye_Test_Poster = "Plakat za ispitivanje oka",
     Family_Fashion_Sign = "Obiteljska moda znak",
     Fancy_Bed = "Otmjeni krevet",
@@ -679,7 +679,7 @@ Moveables_EN = {
     Sturdy_Bench = "Čvrsta klupa",
     Sunstar_Motel_Sign = "Sunstar Motel znak",
     Surgeon_Degree_Certificate = "Certifikat o diplomi kirurga",
-    Tabletop_Soda_Machine = "Stolni aparat za gazirano piće",
+    Tabletop_Soda_Machine = "Aparat za gazirana pića",
     Taco_Sign = "Taco del Pancho znak",
     Tactical_Walkie_Talkie = "Taktički voki-toki",
     Tall_Corner_Hedge = "Visoka živica u kutu",
@@ -808,7 +808,7 @@ Moveables_EN = {
 
     -- ISMoveableSpriteProps names
     Moveable_object = "Pokretni predmet",
-    Scrapable_object = "Predmet koji se može rastaviti",
+    Scrapable_object = "Vrata",
 
     -- Thumpables without CustomName sprite properties, taken from IsoObject:getName()
     Lamp_on_Pillar = "Svjetiljka na stupu",
