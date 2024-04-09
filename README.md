@@ -1,19 +1,22 @@
-# Translating Project Zomboid to Croatian
+# Project Zomboid to Croatian
+## Information
 Currently a work in progress translation of Project Zomboid Build 41 to Croatian.
 
-Feel free to proof read and help out if you want.
-
----
-
-Files that need translating are the ones with _EN at the end.
+Feel free to proof read and help out if you want.<br>
+Files that need translating are the ones with _EN at the end.<br>
 In order of importance, from highest to lowest.
 
 * Survival Guide
 * Recorded Media
 * News
 
----
-
-You can also install this language as a mod from the Steam Workshop
-
+## Usage
+### Install as mod
+You can install this language from the Steam Workshop by subscribing to it.<br>
 https://steamcommunity.com/sharedfiles/filedetails/?id=3216855063
+
+### Install manually
+On the right side, download the latest release file, which is titled HR.zip
+1. Extract the zip file and you should have a folder called HR.
+2. Place this folder into: C:\Program Files (x86)\Steam\steamapps\common\ProjectZomboid\media\lua\shared\Translate
+3. Boot up the game and in the options menu, select "Croatian".
