@@ -1,10 +1,19 @@
-# Project Zomboid translation to Croatian
-Feel free to add a pull request and help out. Check the folder "Needs translating" on what still needs to he done or proof read existing files that need changing.
+# Translating Project Zomboid to Croatian
+Currently a work in progress translation of Project Zomboid Build 41 to Croatian.
 
-Add me on discord if you want to chat about this directly: ratsmon
+Feel free to proof read and help out if you want.
 
-## Files to be translated
+---
+
+Files that need translating are the ones with _EN at the end.
+In order of importance, from highest to lowest.
 
 * Survival Guide
-* Recorded Media (massive)
-* News (massive)
+* Recorded Media
+* News
+
+---
+
+You can also install this language as a mod from the Steam Workshop
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3216855063
