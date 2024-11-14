@@ -10,11 +10,6 @@ In order of importance, from highest to lowest.
 * Recorded Media
 * News
 
-## Usage
-### Install as mod
-You can install this language from the Steam Workshop by subscribing to it.<br>
-https://steamcommunity.com/sharedfiles/filedetails/?id=3216855063
-
 ### Install manually
 On the right side, download the latest release file, which is titled HR.zip
 1. Extract the zip file and you should have a folder called HR.
